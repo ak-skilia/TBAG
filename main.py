@@ -26,7 +26,7 @@ gaius.set_conversation("Hello there! I'm Gaius, the mischevious goblin.")
 kitchen.set_character(gaius)
 
 elena = Friend("Elena", "a kind-hearted fairy")
-elena.set_conversation("Hi! I'm Elena. I hope you're to keep my company")
+elena.set_conversation("Hi! I'm Elena. I hope you're here to keep me company")
 ballroom.set_character(elena)
 
 key = Item()
